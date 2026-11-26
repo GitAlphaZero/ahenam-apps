@@ -17,6 +17,7 @@ APPS = [
     ("weldbench", "WeldBench", "Welding settings, heat input and filler metal calculators."),
     ("stairwise", "Stairwise", "Stair stringer layout and framing calculators."),
     ("tileline", "Tileline", "Pool water balance and chemical dosing for pool techs."),
+    ("bendink", "Bend Ink", "Conduit bending: offsets, saddles, kicks and 90s with bend diagrams."),
 ]
 
 CSS = """
